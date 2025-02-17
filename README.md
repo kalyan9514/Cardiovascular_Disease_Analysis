@@ -1,4 +1,4 @@
-## Cardiovascular Disease Risk Analysis Project
+## Predictive Modeling and Risk Factor Analysis Using Machine Learning
 
 **Problem:** 
 Cardiovascular diseases (CVDs) are a leading cause of death globally, despite medical advancements.
